@@ -77,11 +77,7 @@
                           </Group>
                           <EmptySpace max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" attributes="0">
-                                  <Component id="alturamjTextField" min="-2" pref="120" max="-2" attributes="0"/>
-                                  <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
-                              </Group>
+                              <Component id="alturamjTextField" min="-2" pref="120" max="-2" attributes="0"/>
                               <Component id="pesokgjTextField" min="-2" pref="120" max="-2" attributes="0"/>
                           </Group>
                       </Group>
@@ -106,7 +102,6 @@
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="AlturamjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="alturamjTextField" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
@@ -295,14 +290,6 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel2">
-          <Properties>
-            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI Black" size="9" style="0"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="Utilize ponto, n&#xe3;o v&#xed;rgula."/>
           </Properties>
         </Component>
       </SubComponents>
